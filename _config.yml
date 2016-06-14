@@ -1,0 +1,14 @@
+layout_spectrum: 0.03971195872873068
+typography_spectrum: 0.12048958078958094
+color:
+  brandStrength: 0.3266131980344653
+  lightness: 0.6153083178214729
+  saturation: 0.8660921731498092
+  rhythmicContrast: 0.7515436392277479
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Fa
